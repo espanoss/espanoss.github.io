@@ -1,0 +1,31 @@
+html {
+
+font-size: 15px;
+font-family: 'Imprima', sans-serif;;
+background-color: #ffffff;
+}
+
+body {
+width: 900px;
+margin: 0 auto;
+padding: 0px 10px 10px 10px;
+background-color: rgb(250, 250, 250);
+}
+
+h1{text-align: center;
+	font-size: 40px;
+	margin: 0px;
+	padding: 20px 20px;
+	}
+
+p, ol, div {
+	font-size: 20px;
+	line-height: 120%;
+	letter-spacing: 1px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  border: 10px solid rgb(255, 255, 255);
+}
